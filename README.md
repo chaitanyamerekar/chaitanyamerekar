@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @chaitanyamerekar
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me chaitanyamerekar@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌍 Full Stack Developer | Passionate about building scalable web applications | JavaScript, React, Node.js, Python | Open Source Contributor
+🚀 Always learning and exploring new technologies to solve real-world problems.
+
+
 
 <!---
 chaitanyamerekar/chaitanyamerekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaitanyamerekar
 - 👀 I’m interested in learning 
-- 📫 How to reach me chaitanyamerekar@gmail.com
+- 📫 How to reach me chaitanyamerekar@gmail.com<br>
 🌍 Full Stack Developer | Passionate about building scalable web applications | JavaScript, React, Node.js, Python | Open Source Contributor
 🚀 Always learning and exploring new technologies to solve real-world problems.
 
